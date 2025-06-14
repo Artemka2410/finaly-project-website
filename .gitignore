@@ -1,0 +1,16 @@
+# Загальні файли операційної системи
+.DS_Store
+Thumbs.db
+
+# Залежності (якщо ви використовуєте Node.js або npm)
+node_modules/
+
+# Тимчасові файли
+*.tmp
+*.bak
+*~
+*.log
+
+# IDE файли (якщо ви використовуєте VS Code, WebStorm тощо)
+.idea/
+.vscode/
